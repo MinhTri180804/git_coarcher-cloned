@@ -300,7 +300,7 @@ ul.list_item li i {
 /* page intro */
 
 .container_page-intro {
-    background-image: url(img_project/Backgrouns.jpg);
+    background-image: url("/img_project/Backgrouns.jpg");
     width: 100%;
     height: 581px;
     background-size: cover;
