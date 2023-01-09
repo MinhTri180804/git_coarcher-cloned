@@ -253,7 +253,7 @@ ul.list_item li i {
 /* container banner */
 
 .container_page-banner .img_banner {
-    object-fit: cover;
+    object-fit: contain;
     width: 100%;
     height: 735px;
     position: relative;
