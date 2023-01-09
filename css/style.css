@@ -253,7 +253,7 @@ ul.list_item li i {
 /* container banner */
 
 .container_page-banner .img_banner {
-    background-image: url("../img_project/Backgrouns.jpg");
+    background-image: url("../img_project/banner.jpg");
     object-fit: cover;
     width: 100%;
     height: 735px;
